@@ -1,6 +1,7 @@
 # shaRefile
 An file host tool
-> How I recommend to use it:
+> How I recommend to use it
+
 Go to your router settings and make port forwarding to 8080
 Turn off your firewall
 Register to no-ip, make an hostname, download no-ip DUC and apply the hostname.
