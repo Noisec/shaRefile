@@ -20,4 +20,4 @@ From now, put any file in the folder you set, and you can just access it with <h
 > You can use this to host images, files or anything you want
 
 
-![alt text](https://cdn.discordapp.com/attachments/1051113617401061449/1085671995917746267/image.png)
+
