@@ -22,3 +22,4 @@ From now, put any file in the folder you set, and you can just access it with <h
 
 ![alt text](https://cdn.discordapp.com/attachments/1051113617401061449/1085672403302101082/image.png)
 
+![alt text](https://cdn.discordapp.com/attachments/1051113617401061449/1085673207966728384/shaRefile-logo.png)
