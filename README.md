@@ -15,7 +15,7 @@ How I recommend to use it:
 
 > Launch the executable or the python script
 
-From now, put any file in the folder you set, and you can just access it with <hostname>:8080/<filename>
+From now, put any file in the folder you set, and you can just access it with [hostname]:8080/[filename]
 
 > You can use this to host images, files or anything you want
 
